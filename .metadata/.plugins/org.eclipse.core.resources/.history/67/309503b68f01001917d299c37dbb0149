@@ -1,0 +1,10 @@
+package com.outlook.boole.s.zapicwebsite.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.outlook.boole.s.zapicwebsite.domain.Reviewer;
+
+
+public c ReviewRepository extends JpaRepository<Reviewer, Long>{
+
+}

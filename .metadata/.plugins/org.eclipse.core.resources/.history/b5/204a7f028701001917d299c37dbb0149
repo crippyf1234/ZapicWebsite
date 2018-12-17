@@ -1,0 +1,5 @@
+package com.outlook.boole.s.zapicwebsite.domain;
+
+public class Reviewer {
+
+}
